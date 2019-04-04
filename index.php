@@ -7,5 +7,14 @@
   </head>
   <body>
 
+    <div class="navbar">
+      <ul>
+        <li> <a href="Titel.html">Titel</a> </li>
+        <li> <a href="Titel.html">Titel</a> </li>
+        <li> <a href="Titel.html">Titel</a> </li>
+        <li> <a href="Titel.html">Titel</a> </li>
+      </ul>
+    </div>
+
   </body>
 </html>

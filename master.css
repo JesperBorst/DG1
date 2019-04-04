@@ -1,3 +1,29 @@
 body {
   background-image: url("achtergrond_forum.jpg");
 }
+
+.navbar ul {
+  list-style-type: none;
+	margin: 0;
+	padding: 0;
+  margin-top: 80px;
+  text-align: center;
+}
+
+
+.navbar li {
+  display: inline;
+  padding-right: 30px;
+}
+
+.navbar li a {
+  color: white;
+  font-size: 1.15em;
+  padding: 5px 45px;
+  text-decoration: none;
+  background-color: #30BBF6;
+}
+
+.navbar li a:hover {
+  background-color: gray;
+}
