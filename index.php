@@ -9,10 +9,10 @@
 
     <div class="navbar">
       <ul>
-        <li> <a href="Titel.html">Titel</a> </li>
-        <li> <a href="Titel.html">Titel</a> </li>
-        <li> <a href="Titel.html">Titel</a> </li>
-        <li> <a href="Titel.html">Titel</a> </li>
+        <li> <a href="Titel.html">titel</a> </li>
+        <li> <a href="Titel.html">titel</a> </li>
+        <li> <a href="Titel.html">titel</a> </li>
+        <li> <a href="Titel.html">titel</a> </li>
       </ul>
     </div>
 
