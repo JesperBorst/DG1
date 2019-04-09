@@ -7,6 +7,11 @@
   </head>
   <body>
 
+    <div id="header">
+      <!-- Hier komt het blauwe balkje wat boven de navigatie bar staat
+      (kijk voorbeeld in pdf bestand.) -->
+    </div>
+    
       <div class="navbar">
         <ul>
           <li> <a href="Titel.html">titel</a> </li>
@@ -18,8 +23,7 @@
 
       <div id="logotitle">
         <img id="logo-img" src = "logoforum2.png">
-        <div id="blokje"><p id="blokjetekst">SiteTitle</p></div>
-        <!-- <p id="SiteTitle">Titel</p> -->
+        <div id="blokje"><p id="blokjetekst">forum ict</p></div>
       </div>
 
     <div class="titel">

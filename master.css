@@ -1,9 +1,4 @@
-html {
-  width: 100%;
-}
-
 body {
-  width: 100%;
   background-image: url("achtergrond_forum.jpg");
 }
 
@@ -46,7 +41,6 @@ body {
   opacity: 0.7;
   color: #386998;
   width: 100%;
-
 }
 
 #logo-img {
@@ -74,5 +68,4 @@ body {
   height: inherit;
   margin: 0;
   top: 0px;
-
 }
