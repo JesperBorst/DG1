@@ -1,5 +1,16 @@
+html {
+  width: 100%;
+}
+
 body {
+  width: 100%;
   background-image: url("achtergrond_forum.jpg");
+}
+
+/* -------------------------------------------------------------------------- */
+.navbar {
+  position: relative;
+  z-index: 999;
 }
 
 .navbar ul {
@@ -26,4 +37,42 @@ body {
 
 .navbar li a:hover {
   background-color: gray;
+}
+
+/* -------------------------------------------------------------------------- */
+#logotitle {
+  height: 100px;
+  background-color: #F5FFFA;
+  opacity: 0.7;
+  color: #386998;
+  width: 100%;
+
+}
+
+#logo-img {
+  display: inline-block;
+  height: inherit;
+}
+
+#blokje {
+  position: absolute;
+  height: inherit;
+  display: inline-block;
+  width: 250px;
+  font-size: 2.5em;
+}
+
+#blokjetekst {
+  margin: 11% 0 11% 0;
+}
+
+#SiteTitle {
+  position: relative;
+  display: inline-block;
+  width: 80%;
+  font-size: 2.5em;
+  height: inherit;
+  margin: 0;
+  top: 0px;
+
 }
