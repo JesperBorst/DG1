@@ -11,7 +11,7 @@
       <!-- Hier komt het blauwe balkje wat boven de navigatie bar staat
       (kijk voorbeeld in pdf bestand.) -->
     </div>
-    
+
       <div class="navbar">
         <ul>
           <li> <a href="Titel.html">titel</a> </li>
@@ -25,8 +25,9 @@
         <img id="logo-img" src = "logoforum2.png">
         <div id="blokje"><p id="blokjetekst">forum ict</p></div>
       </div>
-
-    <div class="titel">
+      <br>
+    <div class="titel2">
+      <p> topic ict & webdesign </p>
     </div>
 
     <div class="paragraph">

@@ -44,28 +44,23 @@ body {
 }
 
 #logo-img {
-  display: inline-block;
   height: inherit;
+  vertical-align: top;
 }
 
 #blokje {
-  position: absolute;
+  vertical-align: top;
   height: inherit;
   display: inline-block;
-  width: 250px;
   font-size: 2.5em;
 }
 
-#blokjetekst {
-  margin: 11% 0 11% 0;
-}
+/* ----------------------------------------------------------------------- */
+.titel2 {
+  background-color: blue;
+  margin-left: 40px;
+  margin-right: 30px;
+  font-size: 1.5em;
+  color: white
 
-#SiteTitle {
-  position: relative;
-  display: inline-block;
-  width: 80%;
-  font-size: 2.5em;
-  height: inherit;
-  margin: 0;
-  top: 0px;
 }
