@@ -2,17 +2,21 @@ body {
   background-image: url("achtergrond_forum.jpg");
 }
 
+#header {
+  background-color: blue;
+  opacity: 0.7;
+  height: 90px;
+}
+
 /* -------------------------------------------------------------------------- */
 .navbar {
+  margin-top: -8px;
   position: relative;
   z-index: 999;
 }
 
 .navbar ul {
   list-style-type: none;
-	margin: 0;
-	padding: 0;
-  margin-top: 80px;
   text-align: center;
 }
 
@@ -36,6 +40,7 @@ body {
 
 /* -------------------------------------------------------------------------- */
 #logotitle {
+  margin-top: -13px;
   height: 100px;
   background-color: #F5FFFA;
   opacity: 0.7;
@@ -56,11 +61,15 @@ body {
 }
 
 /* ----------------------------------------------------------------------- */
-.titel2 {
-  background-color: blue;
-  margin-left: 40px;
-  margin-right: 30px;
+.titel2 p {
+  background-color: #3068E1;
   font-size: 1.5em;
-  color: white
+  color: white;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 20px;
+}
 
+* {
+  margin: 0;
 }

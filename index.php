@@ -10,7 +10,7 @@
     <div id="header">
       <!-- Hier komt het blauwe balkje wat boven de navigatie bar staat
       (kijk voorbeeld in pdf bestand.) -->
-    </div>
+      </div>
 
       <div class="navbar">
         <ul>
@@ -23,14 +23,17 @@
 
       <div id="logotitle">
         <img id="logo-img" src = "logoforum2.png">
-        <div id="blokje"><p id="blokjetekst">forum ict</p></div>
+        <div id="blokje"><p>forum ict</p></div>
       </div>
+
       <br>
+
     <div class="titel2">
       <p> topic ict & webdesign </p>
     </div>
 
     <div class="paragraph">
+      <p> </p>
     </div>
 
     <div id="footer">
